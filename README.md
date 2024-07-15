@@ -16,7 +16,7 @@ In my free time I am passionate about baseball. I do some side projects related 
 ### How to reach me
 
 Follow me on Bluesky [@nikdudaev](https://bsky.app/profile/nikdudaev.bsky.social)
-Send me an email to [nikolay.dudaev@proton.me](nikolay.dudaev@proton.me)
+Send me an email to [nikolay.dudaev@proton.me](mailto:nikolay.dudaev@proton.me)
 
 <!--
 **nikdudaev/nikdudaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
