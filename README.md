@@ -13,6 +13,8 @@ In my free time I am passionate about baseball. I do some side projects related 
 - [Baseball Run Expectancy Analysis](https://observablehq.com/@nd/baseball-run-expectancy-analysis)
 - [Bubble Chart of TV Shows](https://observablehq.com/@nd/bubble-chart-with-d3-with-a-lot-of-interaction-work-in-progre)
 
+My dataviz works are on [Observable](https://observablehq/@nd)
+
 ### How to reach me
 
 Follow me on Bluesky [@nikdudaev](https://bsky.app/profile/nikdudaev.bsky.social)
