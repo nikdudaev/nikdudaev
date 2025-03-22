@@ -15,9 +15,23 @@ In my free time I am passionate about baseball. I do some side projects related 
 
 My dataviz works are on [Observable](https://observablehq/@nd)
 
+I am working on my personal blog, which will go live soon on
+[nikolaydudaev.com](https://nikolaydudaev.com)
+
+### Other gigs
+
+I am planning to work on a couple of side projects to explore new areas of
+learning:
+- `bsky-term` a CLI tool that would allow to use Bluesky in terminal
+- `pylore`, Python library for Exploratory Data Analysis (EDA)
+- `rustermi` terminal emulator for Linux, written in Rust
+- `whoyouwannabe` a tiny social network based on ATProtocol to track your dreams
+- I am also working on the collection of Statistic and Probability notebooks
+    that could serve as a learning resource.
+
 ### How to reach me
 
-Follow me on Bluesky [@nikdudaev](https://bsky.app/profile/nikdudaev.bsky.social)
+Follow me on Bluesky [@nikdudaev](https://bsky.app/profile/nikolaydudaev.com)
 Send me an email to [nikolay.dudaev@proton.me](mailto:nikolay.dudaev@proton.me)
 
 <!--
