@@ -18,6 +18,16 @@ My dataviz works are on [Observable](https://observablehq/@nd)
 I am working on my personal blog, which will go live soon on
 [nikolaydudaev.com](https://nikolaydudaev.com)
 
+### Favorite Editor
+
+I've tried many others, but **Vim** is the one I use
+
+### OS
+
+My working OS is MacOS.
+At home I exclusively use Linux. I've tried quite a few distributions, but could
+not stick to any one until I've tried **Debian**. It is awesome!
+
 ### Other gigs
 
 I am planning to work on a couple of side projects to explore new areas of
